@@ -1,5 +1,6 @@
 [
 {
+"id": 1
 "nome": "ATM Centro Storico - Piazza Duomo",
 "indirizzo": "Piazza del Duomo, 1",
 "citta": "L'Aquila",
@@ -7,6 +8,7 @@
 "long": 13.3995
 },
 {
+"id": 2
 "nome": "ATM Fontana Luminosa",
 "indirizzo": "Piazza Battaglione Alpini, 4",
 "citta": "L'Aquila",
@@ -14,6 +16,7 @@
 "long": 13.3983
 },
 {
+"id": 3
 "nome": "ATM Collemaggio",
 "indirizzo": "Piazzale di Collemaggio, 2",
 "citta": "L'Aquila",
@@ -21,6 +24,7 @@
 "long": 13.4047
 },
 {
+"id": 4
 "nome": "ATM Centro Commerciale L'Aquilone",
 "indirizzo": "Via Campo di Pile, snc",
 "citta": "L'Aquila",
@@ -28,6 +32,7 @@
 "long": 13.3612
 },
 {
+"id": 5
 "nome": "ATM Ospedale San Salvatore",
 "indirizzo": "Via Vetoio, 1",
 "citta": "L'Aquila",
