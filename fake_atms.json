@@ -38,5 +38,61 @@
   "city": "L'Aquila",
   "lat": 42.3664,
   "lng": 13.3518
+  }, {[
+  {
+    "id": 6,
+    "name": "ATM Uni-Credit",
+    "address": "Via Roma 1",
+    "city": "Rome",
+    "lat": 41.9000,
+    "lng": 12.4800
+  },
+  {
+    "id": 7,
+    "name": "ATM Intesa Sanpaolo",
+    "address": "Via del Corso 226",
+    "city": "Rome",
+    "lat": 41.9022,
+    "lng": 12.4798
+  },
+  {
+    "id": 8,
+    "name": "ATM UniCredit",
+    "address": "Piazza di Spagna 15",
+    "city": "Rome",
+    "lat": 41.9058,
+    "lng": 12.4823
+  },
+  {
+    "id": 9,
+    "name": "ATM Banco BPM",
+    "address": "Via dei Condotti 35",
+    "city": "Rome",
+    "lat": 41.9041,
+    "lng": 12.4803
+  },
+  {
+    "id": 10,
+    "name": "ATM BNL",
+    "address": "Via del Tritone 146",
+    "city": "Rome",
+    "lat": 41.9015,
+    "lng": 12.4870
+  },
+  {
+    "id": 11,
+    "name": "ATM Poste Italiane",
+    "address": "Piazza San Silvestro 20",
+    "city": "Rome",
+    "lat": 41.9029,
+    "lng": 12.4836
+  },
+  {
+    "id": 12,
+    "name": "ATM Crédit Agricole",
+    "address": "Via del Babuino 98",
+    "city": "Rome",
+    "lat": 41.9063,
+    "lng": 12.4795
   }
 ]
