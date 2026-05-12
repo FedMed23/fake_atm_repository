@@ -94,5 +94,709 @@
     "city": "Rome",
     "lat": 41.9063,
     "lng": 12.4795
+  },
+  {
+    "id": 13,
+    "name": "ATM UniCredit Duomo",
+    "address": "Piazza Duomo, 12",
+    "city": "Milano",
+    "lat": 45.4642,
+    "lng": 9.1916
+  },
+  {
+    "id": 14,
+    "name": "ATM Intesa Sanpaolo Centrale",
+    "address": "Piazza Duca d'Aosta, 5",
+    "city": "Milano",
+    "lat": 45.4854,
+    "lng": 9.2045
+  },
+  {
+    "id": 15,
+    "name": "ATM Banco BPM Navigli",
+    "address": "Alzaia Naviglio Grande, 22",
+    "city": "Milano",
+    "lat": 45.4518,
+    "lng": 9.1739
+  },
+  {
+    "id": 16,
+    "name": "ATM BNL Brera",
+    "address": "Via Brera, 18",
+    "city": "Milano",
+    "lat": 45.4717,
+    "lng": 9.1881
+  },
+  {
+    "id": 17,
+    "name": "ATM Crédit Agricole CityLife",
+    "address": "Piazza Tre Torri, 1",
+    "city": "Milano",
+    "lat": 45.4781,
+    "lng": 9.1550
+  },
+  {
+    "id": 18,
+    "name": "ATM UniCredit San Babila",
+    "address": "Corso Venezia, 8",
+    "city": "Milano",
+    "lat": 45.4667,
+    "lng": 9.1989
+  },
+  {
+    "id": 19,
+    "name": "ATM Intesa Porta Romana",
+    "address": "Corso di Porta Romana, 90",
+    "city": "Milano",
+    "lat": 45.4568,
+    "lng": 9.2024
+  },
+  {
+    "id": 20,
+    "name": "ATM Banco BPM Isola",
+    "address": "Via Borsieri, 30",
+    "city": "Milano",
+    "lat": 45.4861,
+    "lng": 9.1887
+  },
+  {
+    "id": 21,
+    "name": "ATM UniCredit Toledo",
+    "address": "Via Toledo, 210",
+    "city": "Napoli",
+    "lat": 40.8399,
+    "lng": 14.2488
+  },
+  {
+    "id": 22,
+    "name": "ATM Intesa Sanpaolo Vomero",
+    "address": "Via Scarlatti, 85",
+    "city": "Napoli",
+    "lat": 40.8471,
+    "lng": 14.2427
+  },
+  {
+    "id": 23,
+    "name": "ATM Banco BPM Chiaia",
+    "address": "Via Chiaia, 130",
+    "city": "Napoli",
+    "lat": 40.8352,
+    "lng": 14.2433
+  },
+  {
+    "id": 24,
+    "name": "ATM Poste Italiane Garibaldi",
+    "address": "Piazza Garibaldi, 15",
+    "city": "Napoli",
+    "lat": 40.8517,
+    "lng": 14.2721
+  },
+  {
+    "id": 25,
+    "name": "ATM BNL Posillipo",
+    "address": "Via Posillipo, 66",
+    "city": "Napoli",
+    "lat": 40.8165,
+    "lng": 14.2169
+  },
+  {
+    "id": 26,
+    "name": "ATM UniCredit Santa Maria Novella",
+    "address": "Piazza SMN, 3",
+    "city": "Firenze",
+    "lat": 43.7765,
+    "lng": 11.2486
+  },
+  {
+    "id": 27,
+    "name": "ATM Intesa Ponte Vecchio",
+    "address": "Via Por Santa Maria, 9",
+    "city": "Firenze",
+    "lat": 43.7680,
+    "lng": 11.2531
+  },
+  {
+    "id": 28,
+    "name": "ATM Banco BPM Duomo Firenze",
+    "address": "Via dei Calzaiuoli, 14",
+    "city": "Firenze",
+    "lat": 43.7735,
+    "lng": 11.2558
+  },
+  {
+    "id": 29,
+    "name": "ATM UniCredit Piazza Maggiore",
+    "address": "Piazza Maggiore, 2",
+    "city": "Bologna",
+    "lat": 44.4949,
+    "lng": 11.3426
+  },
+  {
+    "id": 30,
+    "name": "ATM Intesa San Donato",
+    "address": "Via San Donato, 45",
+    "city": "Bologna",
+    "lat": 44.5028,
+    "lng": 11.3561
+  },
+  {
+    "id": 31,
+    "name": "ATM BNL Bologna Centrale",
+    "address": "Piazza Medaglie d'Oro, 4",
+    "city": "Bologna",
+    "lat": 44.5055,
+    "lng": 11.3417
+  },
+  {
+    "id": 32,
+    "name": "ATM UniCredit Porta Nuova",
+    "address": "Corso Vittorio Emanuele II, 58",
+    "city": "Torino",
+    "lat": 45.0625,
+    "lng": 7.6782
+  },
+  {
+    "id": 33,
+    "name": "ATM Intesa San Salvario",
+    "address": "Via Nizza, 24",
+    "city": "Torino",
+    "lat": 45.0548,
+    "lng": 7.6789
+  },
+  {
+    "id": 34,
+    "name": "ATM Banco BPM Mole",
+    "address": "Via Po, 30",
+    "city": "Torino",
+    "lat": 45.0687,
+    "lng": 7.6931
+  },
+  {
+    "id": 35,
+    "name": "ATM UniCredit Porto Antico",
+    "address": "Via al Porto Antico, 2",
+    "city": "Genova",
+    "lat": 44.4111,
+    "lng": 8.9328
+  },
+  {
+    "id": 36,
+    "name": "ATM Intesa Foce",
+    "address": "Corso Buenos Aires, 40",
+    "city": "Genova",
+    "lat": 44.3982,
+    "lng": 8.9501
+  },
+  {
+    "id": 37,
+    "name": "ATM BNL Brignole",
+    "address": "Piazza Verdi, 5",
+    "city": "Genova",
+    "lat": 44.4058,
+    "lng": 8.9463
+  },
+  {
+    "id": 38,
+    "name": "ATM UniCredit Bari Vecchia",
+    "address": "Corso Vittorio Emanuele, 33",
+    "city": "Bari",
+    "lat": 41.1258,
+    "lng": 16.8684
+  },
+  {
+    "id": 39,
+    "name": "ATM Intesa Poggiofranco",
+    "address": "Via Camillo Rosalba, 12",
+    "city": "Bari",
+    "lat": 41.1113,
+    "lng": 16.8719
+  },
+  {
+    "id": 40,
+    "name": "ATM Poste Italiane Bari Centrale",
+    "address": "Piazza Moro, 18",
+    "city": "Bari",
+    "lat": 41.1171,
+    "lng": 16.8718
+  },
+  {
+    "id": 41,
+    "name": "ATM UniCredit Politeama",
+    "address": "Via Ruggero Settimo, 44",
+    "city": "Palermo",
+    "lat": 38.1256,
+    "lng": 13.3564
+  },
+  {
+    "id": 42,
+    "name": "ATM Intesa Mondello",
+    "address": "Viale Regina Elena, 12",
+    "city": "Palermo",
+    "lat": 38.1964,
+    "lng": 13.3267
+  },
+  {
+    "id": 43,
+    "name": "ATM Banco BPM Teatro Massimo",
+    "address": "Piazza Verdi, 7",
+    "city": "Palermo",
+    "lat": 38.1217,
+    "lng": 13.3570
+  },
+  {
+    "id": 44,
+    "name": "ATM UniCredit Etnea",
+    "address": "Via Etnea, 120",
+    "city": "Catania",
+    "lat": 37.5079,
+    "lng": 15.0830
+  },
+  {
+    "id": 45,
+    "name": "ATM Intesa San Berillo",
+    "address": "Via Monsignor Ventimiglia, 20",
+    "city": "Catania",
+    "lat": 37.5072,
+    "lng": 15.0902
+  },
+  {
+    "id": 46,
+    "name": "ATM BNL Lungomare",
+    "address": "Viale Ruggero di Lauria, 55",
+    "city": "Catania",
+    "lat": 37.5201,
+    "lng": 15.1011
+  },
+  {
+    "id": 47,
+    "name": "ATM UniCredit Castello",
+    "address": "Via Roma, 80",
+    "city": "Cagliari",
+    "lat": 39.2172,
+    "lng": 9.1139
+  },
+  {
+    "id": 48,
+    "name": "ATM Intesa Poetto",
+    "address": "Lungomare Poetto, 15",
+    "city": "Cagliari",
+    "lat": 39.1994,
+    "lng": 9.1452
+  },
+  {
+    "id": 49,
+    "name": "ATM Banco BPM Marina",
+    "address": "Via Sardegna, 22",
+    "city": "Cagliari",
+    "lat": 39.2130,
+    "lng": 9.1165
+  },
+  {
+    "id": 50,
+    "name": "ATM UniCredit Piazza Bra",
+    "address": "Piazza Bra, 10",
+    "city": "Verona",
+    "lat": 45.4384,
+    "lng": 10.9916
+  },
+  {
+    "id": 51,
+    "name": "ATM Intesa Arena",
+    "address": "Via Mazzini, 11",
+    "city": "Verona",
+    "lat": 45.4388,
+    "lng": 10.9945
+  },
+  {
+    "id": 52,
+    "name": "ATM UniCredit Prato della Valle",
+    "address": "Prato della Valle, 3",
+    "city": "Padova",
+    "lat": 45.3995,
+    "lng": 11.8768
+  },
+  {
+    "id": 53,
+    "name": "ATM Banco BPM Centro",
+    "address": "Via Roma, 18",
+    "city": "Padova",
+    "lat": 45.4065,
+    "lng": 11.8760
+  },
+  {
+    "id": 54,
+    "name": "ATM Intesa Piazza Unità",
+    "address": "Piazza Unità d'Italia, 1",
+    "city": "Trieste",
+    "lat": 45.6495,
+    "lng": 13.7768
+  },
+  {
+    "id": 55,
+    "name": "ATM UniCredit Canal Grande",
+    "address": "Via Roma, 25",
+    "city": "Trieste",
+    "lat": 45.6543,
+    "lng": 13.7721
+  },
+  {
+    "id": 56,
+    "name": "ATM UniCredit Centro",
+    "address": "Corso Vannucci, 14",
+    "city": "Perugia",
+    "lat": 43.1122,
+    "lng": 12.3888
+  },
+  {
+    "id": 57,
+    "name": "ATM Intesa Fontivegge",
+    "address": "Piazza Vittorio Veneto, 2",
+    "city": "Perugia",
+    "lat": 43.1107,
+    "lng": 12.3890
+  },
+  {
+    "id": 58,
+    "name": "ATM UniCredit Piazza del Campo",
+    "address": "Piazza del Campo, 6",
+    "city": "Siena",
+    "lat": 43.3188,
+    "lng": 11.3308
+  },
+  {
+    "id": 59,
+    "name": "ATM Monte dei Paschi",
+    "address": "Via Banchi di Sopra, 20",
+    "city": "Siena",
+    "lat": 43.3199,
+    "lng": 11.3315
+  },
+  {
+    "id": 60,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Garibaldi, 10",
+    "city": "Ancona",
+    "lat": 43.6158,
+    "lng": 13.5189
+  },
+  {
+    "id": 61,
+    "name": "ATM Intesa Porto",
+    "address": "Largo XXIV Maggio, 5",
+    "city": "Ancona",
+    "lat": 43.6175,
+    "lng": 13.5104
+  },
+  {
+    "id": 62,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Pretoria, 50",
+    "city": "Potenza",
+    "lat": 40.6403,
+    "lng": 15.8050
+  },
+  {
+    "id": 63,
+    "name": "ATM Intesa San Gerardo",
+    "address": "Piazza Mario Pagano, 8",
+    "city": "Potenza",
+    "lat": 40.6395,
+    "lng": 15.8042
+  },
+  {
+    "id": 64,
+    "name": "ATM UniCredit Lungomare",
+    "address": "Lungomare Falcomatà, 12",
+    "city": "Reggio Calabria",
+    "lat": 38.1140,
+    "lng": 15.6508
+  },
+  {
+    "id": 65,
+    "name": "ATM Intesa Centro",
+    "address": "Corso Garibaldi, 45",
+    "city": "Reggio Calabria",
+    "lat": 38.1114,
+    "lng": 15.6479
+  },
+  {
+    "id": 66,
+    "name": "ATM UniCredit Piazza Castello",
+    "address": "Piazza Castello, 2",
+    "city": "Aosta",
+    "lat": 45.7372,
+    "lng": 7.3201
+  },
+  {
+    "id": 67,
+    "name": "ATM Intesa Roma",
+    "address": "Via Roma, 16",
+    "city": "Aosta",
+    "lat": 45.7365,
+    "lng": 7.3185
+  },
+  {
+    "id": 68,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Emilia Centro, 120",
+    "city": "Modena",
+    "lat": 44.6471,
+    "lng": 10.9252
+  },
+  {
+    "id": 69,
+    "name": "ATM Banco BPM Ghirlandina",
+    "address": "Piazza Grande, 5",
+    "city": "Modena",
+    "lat": 44.6467,
+    "lng": 10.9257
+  },
+  {
+    "id": 70,
+    "name": "ATM UniCredit Piazza Cavalli",
+    "address": "Piazza Cavalli, 3",
+    "city": "Piacenza",
+    "lat": 45.0522,
+    "lng": 9.6930
+  },
+  {
+    "id": 71,
+    "name": "ATM Intesa Centro",
+    "address": "Via XX Settembre, 20",
+    "city": "Piacenza",
+    "lat": 45.0508,
+    "lng": 9.6945
+  },
+  {
+    "id": 72,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Indipendenza, 44",
+    "city": "Parma",
+    "lat": 44.8015,
+    "lng": 10.3279
+  },
+  {
+    "id": 73,
+    "name": "ATM Intesa Ducale",
+    "address": "Piazza Garibaldi, 7",
+    "city": "Parma",
+    "lat": 44.8010,
+    "lng": 10.3286
+  },
+  {
+    "id": 74,
+    "name": "ATM UniCredit Centro",
+    "address": "Corso Italia, 55",
+    "city": "Pisa",
+    "lat": 43.7168,
+    "lng": 10.4017
+  },
+  {
+    "id": 75,
+    "name": "ATM Intesa Torre",
+    "address": "Piazza del Duomo, 1",
+    "city": "Pisa",
+    "lat": 43.7230,
+    "lng": 10.3966
+  },
+  {
+    "id": 76,
+    "name": "ATM UniCredit Mare",
+    "address": "Viale Italia, 30",
+    "city": "Livorno",
+    "lat": 43.5485,
+    "lng": 10.3106
+  },
+  {
+    "id": 77,
+    "name": "ATM Intesa Porto",
+    "address": "Piazza Grande, 9",
+    "city": "Livorno",
+    "lat": 43.5510,
+    "lng": 10.3084
+  },
+  {
+    "id": 78,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Atenea, 66",
+    "city": "Agrigento",
+    "lat": 37.3105,
+    "lng": 13.5765
+  },
+  {
+    "id": 79,
+    "name": "ATM Intesa Valle dei Templi",
+    "address": "Via Panoramica dei Templi, 5",
+    "city": "Agrigento",
+    "lat": 37.2906,
+    "lng": 13.5846
+  },
+  {
+    "id": 80,
+    "name": "ATM UniCredit Centro",
+    "address": "Corso Umberto I, 88",
+    "city": "Pescara",
+    "lat": 42.4643,
+    "lng": 14.2142
+  },
+  {
+    "id": 81,
+    "name": "ATM Intesa Riviera",
+    "address": "Lungomare Matteotti, 12",
+    "city": "Pescara",
+    "lat": 42.4702,
+    "lng": 14.2191
+  },
+  {
+    "id": 82,
+    "name": "ATM Banco BPM Stazione",
+    "address": "Piazza della Repubblica, 3",
+    "city": "Pescara",
+    "lat": 42.4679,
+    "lng": 14.2085
+  },
+  {
+    "id": 83,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Mazzini, 21",
+    "city": "Campobasso",
+    "lat": 41.5601,
+    "lng": 14.6647
+  },
+  {
+    "id": 84,
+    "name": "ATM Intesa Municipio",
+    "address": "Piazza Vittorio Emanuele II, 2",
+    "city": "Campobasso",
+    "lat": 41.5613,
+    "lng": 14.6655
+  },
+  {
+    "id": 85,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Garibaldi, 42",
+    "city": "Trento",
+    "lat": 46.0679,
+    "lng": 11.1211
+  },
+  {
+    "id": 86,
+    "name": "ATM Intesa Duomo",
+    "address": "Piazza Duomo, 4",
+    "city": "Trento",
+    "lat": 46.0668,
+    "lng": 11.1217
+  },
+  {
+    "id": 87,
+    "name": "ATM UniCredit Walther",
+    "address": "Piazza Walther, 7",
+    "city": "Bolzano",
+    "lat": 46.4983,
+    "lng": 11.3548
+  },
+  {
+    "id": 88,
+    "name": "ATM Intesa Centro",
+    "address": "Via dei Portici, 20",
+    "city": "Bolzano",
+    "lat": 46.4990,
+    "lng": 11.3561
+  },
+  {
+    "id": 89,
+    "name": "ATM UniCredit Centro",
+    "address": "Corso Palladio, 11",
+    "city": "Vicenza",
+    "lat": 45.5475,
+    "lng": 11.5468
+  },
+  {
+    "id": 90,
+    "name": "ATM Intesa Basilica",
+    "address": "Piazza dei Signori, 2",
+    "city": "Vicenza",
+    "lat": 45.5482,
+    "lng": 11.5472
+  },
+  {
+    "id": 91,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Zamboni, 33",
+    "city": "Ferrara",
+    "lat": 44.8354,
+    "lng": 11.6198
+  },
+  {
+    "id": 92,
+    "name": "ATM Intesa Castello",
+    "address": "Largo Castello, 1",
+    "city": "Ferrara",
+    "lat": 44.8357,
+    "lng": 11.6204
+  },
+  {
+    "id": 93,
+    "name": "ATM UniCredit Porto",
+    "address": "Via Grande, 80",
+    "city": "La Spezia",
+    "lat": 44.1030,
+    "lng": 9.8232
+  },
+  {
+    "id": 94,
+    "name": "ATM Intesa Centro",
+    "address": "Piazza Europa, 5",
+    "city": "La Spezia",
+    "lat": 44.1021,
+    "lng": 9.8245
+  },
+  {
+    "id": 95,
+    "name": "ATM UniCredit Centro",
+    "address": "Corso Cavour, 12",
+    "city": "Lecce",
+    "lat": 40.3520,
+    "lng": 18.1693
+  },
+  {
+    "id": 96,
+    "name": "ATM Intesa Sant'Oronzo",
+    "address": "Piazza Sant'Oronzo, 3",
+    "city": "Lecce",
+    "lat": 40.3534,
+    "lng": 18.1721
+  },
+  {
+    "id": 97,
+    "name": "ATM UniCredit Centro",
+    "address": "Via Roma, 44",
+    "city": "Salerno",
+    "lat": 40.6824,
+    "lng": 14.7681
+  },
+  {
+    "id": 98,
+    "name": "ATM Intesa Lungomare",
+    "address": "Lungomare Trieste, 20",
+    "city": "Salerno",
+    "lat": 40.6769,
+    "lng": 14.7594
+  },
+  {
+    "id": 99,
+    "name": "ATM UniCredit Centro",
+    "address": "Via XX Settembre, 15",
+    "city": "Ravenna",
+    "lat": 44.4183,
+    "lng": 12.2035
+  },
+  {
+    "id": 100,
+    "name": "ATM Intesa Dante",
+    "address": "Piazza del Popolo, 7",
+    "city": "Ravenna",
+    "lat": 44.4188,
+    "lng": 12.2042
   }
 ]
