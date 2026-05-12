@@ -43,7 +43,7 @@
     "id": 6,
     "name": "ATM Uni-Credit",
     "address": "Via Roma, 1",
-    "city": "Rome",
+    "city": "Roma",
     "lat": 41.9000,
     "lng": 12.4800
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "ATM Intesa Sanpaolo",
     "address": "Via del Corso, 226",
-    "city": "Rome",
+    "city": "Roma",
     "lat": 41.9022,
     "lng": 12.4798
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "ATM UniCredit",
     "address": "Piazza di Spagna, 15",
-    "city": "Rome",
+    "city": "Roma",
     "lat": 41.9058,
     "lng": 12.4823
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "ATM Banco BPM",
     "address": "Via dei Condotti, 35",
-    "city": "Rome",
+    "city": "Roma",
     "lat": 41.9041,
     "lng": 12.4803
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "ATM BNL",
     "address": "Via del Tritone, 146",
-    "city": "Rome",
+    "city": "Roma",
     "lat": 41.9015,
     "lng": 12.4870
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "ATM Poste Italiane",
     "address": "Piazza San Silvestro, 20",
-    "city": "Rome",
+    "city": "Roma",
     "lat": 41.9029,
     "lng": 12.4836
   },
@@ -91,9 +91,129 @@
     "id": 12,
     "name": "ATM Crédit Agricole",
     "address": "Via del Babuino, 98",
-    "city": "Rome",
+    "city": "Roma",
     "lat": 41.9063,
     "lng": 12.4795
+  },
+  {
+    "id": 101,
+    "name": "ATM UniCredit EUR",
+    "address": "Viale Europa, 175",
+    "city": "Roma",
+    "lat": 41.8308,
+    "lng": 12.4656
+  },
+  {
+    "id": 102,
+    "name": "ATM Intesa Sanpaolo Trastevere",
+    "address": "Viale di Trastevere, 62",
+    "city": "Roma",
+    "lat": 41.8839,
+    "lng": 12.4702
+  },
+  {
+    "id": 103,
+    "name": "ATM Banco BPM Tiburtina",
+    "address": "Via Tiburtina, 210",
+    "city": "Roma",
+    "lat": 41.9085,
+    "lng": 12.5308
+  },
+  {
+    "id": 104,
+    "name": "ATM BNL EUR Palasport",
+    "address": "Piazzale dello Sport, 5",
+    "city": "Roma",
+    "lat": 41.8354,
+    "lng": 12.4682
+  },
+  {
+    "id": 105,
+    "name": "ATM Poste Italiane Testaccio",
+    "address": "Via Marmorata, 133",
+    "city": "Roma",
+    "lat": 41.8784,
+    "lng": 12.4765
+  },
+  {
+    "id": 106,
+    "name": "ATM Crédit Agricole Prati",
+    "address": "Via Crescenzio, 48",
+    "city": "Roma",
+    "lat": 41.9068,
+    "lng": 12.4654
+  },
+  {
+    "id": 107,
+    "name": "ATM Fineco Roma Nord",
+    "address": "Via Flaminia, 320",
+    "city": "Roma",
+    "lat": 41.9314,
+    "lng": 12.4760
+  },
+  {
+    "id": 108,
+    "name": "ATM UniCredit Ostiense",
+    "address": "Via Ostiense, 75",
+    "city": "Roma",
+    "lat": 41.8731,
+    "lng": 12.4817
+  },
+  {
+    "id": 109,
+    "name": "ATM Intesa San Giovanni",
+    "address": "Via Appia Nuova, 130",
+    "city": "Roma",
+    "lat": 41.8858,
+    "lng": 12.5059
+  },
+  {
+    "id": 110,
+    "name": "ATM Banco BPM EUR Torrino",
+    "address": "Via della Grande Muraglia, 140",
+    "city": "Roma",
+    "lat": 41.8207,
+    "lng": 12.4543
+  },
+  {
+    "id": 111,
+    "name": "ATM BPER Banca Monteverde",
+    "address": "Circonvallazione Gianicolense, 88",
+    "city": "Roma",
+    "lat": 41.8739,
+    "lng": 12.4457
+  },
+  {
+    "id": 112,
+    "name": "ATM UniCredit Piazza Navona",
+    "address": "Corso Rinascimento, 25",
+    "city": "Roma",
+    "lat": 41.8994,
+    "lng": 12.4731
+  },
+  {
+    "id": 113,
+    "name": "ATM Intesa San Lorenzo",
+    "address": "Via dei Volsci, 101",
+    "city": "Roma",
+    "lat": 41.8999,
+    "lng": 12.5169
+  },
+  {
+    "id": 114,
+    "name": "ATM Poste Italiane Aurelio",
+    "address": "Via Aurelia, 410",
+    "city": "Roma",
+    "lat": 41.8998,
+    "lng": 12.4226
+  },
+  {
+    "id": 115,
+    "name": "ATM UniCredit Vaticano",
+    "address": "Via di Porta Angelica, 12",
+    "city": "Roma",
+    "lat": 41.9062,
+    "lng": 12.4578
   },
   {
     "id": 13,
